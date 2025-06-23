@@ -14,7 +14,7 @@ Here are some of the websites or communities where I found the wallpapers:
 - [Unsplash](https://unsplash.com/)
 - [AlphaCoders](https://wall.alphacoders.com/)
 
-## Preview
+## 🖼️ Preview
 <img src="Wallpapers/abstract-swirls.jpg">
 <img src="Wallpapers/black-and-white-anime-bartender-girl.png">
 <img src="Wallpapers/bridge-sea-middle-mountains.jpg">
