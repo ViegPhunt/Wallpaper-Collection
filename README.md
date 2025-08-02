@@ -2,6 +2,11 @@
 
 This is a repository of my favorite wallpapers.
 
+## 📥 Download this repo
+``` bash
+git clone --depth=1 https://github.com/ViegPhunt/Wallpaper-Collection.git
+```
+
 ## 🔗 Image Sources
 Here are some of the websites or communities where I found the wallpapers:
 - [Reddit - r/unixporn](https://www.reddit.com/r/unixporn/)
