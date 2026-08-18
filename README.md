@@ -25,5 +25,6 @@ Here are some of the websites or communities where I found the wallpapers:
 <img src="Wallpapers/deep-forest-with-wooden-stairs.png">
 <img src="Wallpapers/fishing.jpg">
 <img src="Wallpapers/kita.png">
+<img src="Wallpapers/misty-seascape.jpg">
 <img src="Wallpapers/sea-horizon-sky.jpg">
 <img src="Wallpapers/snow-covered-mountains-northern-india.jpg">
